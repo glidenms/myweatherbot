@@ -1,0 +1,7 @@
+telebot.py
+telebot
+pyowm.py
+pyowm
+aiohttp
+websockets
+chardet
